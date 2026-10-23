@@ -1,0 +1,17 @@
+/local.settings.json
+/artifacts/
+/bin/
+/obj/
+/.vs/
+*.user
+*.suo
+/tests/UnityHarness/Library/
+/tests/UnityHarness/Temp/
+/tests/UnityHarness/Logs/
+/tests/UnityHarness/Obj/
+/tests/UnityHarness/UserSettings/
+/tests/UnityHarness/.vs/
+/tests/UnityHarness/Assets/**/*.meta
+/tests/UnityHarness/Packages/packages-lock.json
+/tests/UnityHarness/ProjectSettings/*
+!/tests/UnityHarness/ProjectSettings/ProjectVersion.txt
